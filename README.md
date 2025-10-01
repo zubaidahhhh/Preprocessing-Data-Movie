@@ -33,6 +33,7 @@ Dataset yang digunakan adalah movie_dataset.csv, berisi berbagai atribut film se
 11. Skor IMDB
 12. Pemain
 14. Jumlah suka di Facebook
+
 Dataset ini kemudian diproses menggunakan Python dan library Pandas.
 Jumlah data: 99 baris x 13 kolom
 ## Hasil
